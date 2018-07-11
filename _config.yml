@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anup"
+title                    : "My online world"
 title_separator          : "-"
 name                     : &name "Anup Deshmukh"
 description              : &description "Student at IIIT-B"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Anup"
+  name             : "Anup Deshmukh"
   avatar           : "pro.JPG"
   bio              : "Transpiring deep learning researcher"
   location         : "Bangalore, India"
