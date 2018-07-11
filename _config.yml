@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My Online World"
+title                    : "<big>My Online World</big>"
 title_separator          : "-"
 name                     : &name "Anup Deshmukh"
 description              : &description "Student at IIIT-B"
