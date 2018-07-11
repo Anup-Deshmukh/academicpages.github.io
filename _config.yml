@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My online world"
+title                    : "My Online World"
 title_separator          : "-"
 name                     : &name "Anup Deshmukh"
 description              : &description "Student at IIIT-B"
@@ -90,14 +90,15 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/anup.deshmukh.750"
+  medium           : "https://medium.com/@danup1997"
   foursquare       :
   github           : "Anup-Deshmukh"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/anup-deshmukh-263872a7/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
