@@ -16,7 +16,7 @@ xxx: Bunch of proud geeks
 ![Bunch of proud geeks](/images/team.JPG)
 and one more behind the camera 
 
-The first 18 years of my life were spent in a small town called [Aurangabad](https://en.wikipedia.org/wiki/Aurangabad,_Maharashtra). Where ever I go, this town always travelles with me and always enriches me. I currently reside in Bangalore where I'm majoring in computer science engineering at [IIIT-B](https://www.iiitb.ac.in/) (final year). Apart from watching innumerable movies, I have spent the last [four years here](https://anup-deshmukh.github.io/talks/) studying everything from differential equations to minimax theorems. To foster my budding interest I have tried to explore wide areas of topics through online articles, blogs and always look for explorable explainations. 
+The first 18 years of my life were spent in a small town called [Aurangabad](https://en.wikipedia.org/wiki/Aurangabad,_Maharashtra). Where ever I go, this town always travelles with me and always enriches me. I currently reside in Bangalore where I'm majoring in computer science engineering at [IIIT-B](https://www.iiitb.ac.in/) (final year). Apart from watching innumerable movies, I have spent the last [four years here](https://anup-deshmukh.github.io/talks/) studying everything from differential equations to minimax theorems. To foster my budding interest I have tried to explore wide areas of topics through online articles, blogs and have always looked for explorable explainations. 
 
 ([This](https://ncase.me/trust/) is definitely worth your time if you are interested in game theory)
 
