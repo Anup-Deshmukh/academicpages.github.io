@@ -8,19 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-> The real danger is not that computers will begin to think like men, but that men will begin to think like computers ~ H. Sydney
+> The real danger is not that computers will begin to think like men, but that men will begin to think like computers ~ Sydney H.
 
 Hello there! I'm Anup, observant, maverick and a believer of [optimistic nihilism](https://www.youtube.com/watch?v=MBRqu0YOH14)
 
-I spent 18 years of my life in a small town called [Aurangabad](https://en.wikipedia.org/wiki/Aurangabad,_Maharashtra). Where ever I have been, this small town has always travelled with me and has always enriched me.   
+![Bunch of proud geeks](/images/team.JPG)
+one more behind the camera 
 
-I curerntly reside in Bangalore. I'm in my final year at [IIIT-B](https://www.iiitb.ac.in/) where I major in Computer Science [details here](http://www.rennes.supelec.fr/ren/rd/fast/team.php) in the summer of 2017. [details here](https://anup-deshmukh.github.io/talks/). I have spent last four years here, studying everything from differential equations to minimax theorems. 
+I spent 18 years of my life in a small town called [Aurangabad](https://en.wikipedia.org/wiki/Aurangabad,_Maharashtra). Where ever I have been, this small town has always travelled with me and has always enriched me. I curerntly reside in Bangalore. I'm in my final year at [IIIT-B](https://www.iiitb.ac.in/) where I major in Computer Science [details here](https://anup-deshmukh.github.io/talks/). I have spent last four years here, studying everything from differential equations to minimax theorems. 
 
 ([This](https://ncase.me/trust/) is definitely worth your time if you are interested in game theory)
 
 I enjoy working on artificial intelligence, particularly computer vision and deep learning; and my research interests include related fields such as human-computer interaction, Recommender Systems and modelling-synthesis techniques in deep learning. 
 
-My first internship at [Slicepay](https://slicepay.in/) gave me an opportunity to work as a Full stack developer where I built the browser extension for payment plans. My work at Murdoch university in the summer of 2016 introduced me to the world of deep learning and amazing things that could be done with Convolutional Neural Networks. Under the supervision of [Prof Ferdous Sohel](http://profiles.murdoch.edu.au/myprofile/ferdous-sohel/), I worked on the problem of crowd counting and learnig of spatio-temporal features. I have also enjoyed working with awesome researchers and engineers in industry, mainly an internships at [FAST lab](http://www.rennes.supelec.fr/ren/rd/fast/team.php) in the summer of 2017. [details here](https://anup-deshmukh.github.io/publications/).
+My first internship at [Slicepay](https://slicepay.in/) gave me an opportunity to work as a Full stack developer where I built the browser extension for payment plans. My work at Murdoch university in the summer of 2016 introduced me to the world of deep learning and amazing things that could be done with Convolutional Neural Networks. Under the supervision of [Prof Ferdous Sohel](http://profiles.murdoch.edu.au/myprofile/ferdous-sohel/), I worked on the problem of crowd counting and learnig of spatio-temporal features. I have also enjoyed working with awesome researchers and engineers in industry, mainly an internships at [FAST lab](http://www.rennes.supelec.fr/ren/rd/fast/team.php) in the summer of 2017 [details here](https://anup-deshmukh.github.io/publications/).
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
 
 I am very interested in studying the adversarial attacks on deep learning models. A deluge of recent papers have proposed methods for defenses. The problem is surprisingly complex and it is not difficult at all to create new adversarial images  to circumvent many natural defenses. This study of making neural networks robust to these attacks interests me. 
@@ -37,7 +38,5 @@ In a nutshell, here is the inclusive but not an exhaustive list of works that ha
 1. [Investigating Serendipity in Recommender Systems Based on Real User Feedback](https://www-users.cs.umn.edu/~zhaox331/papers/denis2018sac.pdf)
 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
 
