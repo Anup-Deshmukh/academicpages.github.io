@@ -16,17 +16,19 @@ xxx: Bunch of proud geeks
 ![Bunch of proud geeks](/images/team.JPG)
 and one more behind the camera 
 
-I spent 18 years of my life in a small town called [Aurangabad](https://en.wikipedia.org/wiki/Aurangabad,_Maharashtra). Where ever I have been, this small town has always travelled with me and has always enriched me. I curerntly reside in Bangalore. I'm in my final year at [IIIT-B](https://www.iiitb.ac.in/) where I major in Computer Science [details](https://anup-deshmukh.github.io/talks/). Apart from watching innumerable movies, I have spent last four years here, studying everything from differential equations to minimax theorems. 
+The first 18 years of my life were spent in a small town called [Aurangabad](https://en.wikipedia.org/wiki/Aurangabad,_Maharashtra). Where ever I go, this town always travelles with me and always enriches me. I currently reside in Bangalore where I'm majoring in computer science engineering at [IIIT-B](https://www.iiitb.ac.in/) (final year). Apart from watching innumerable movies, I have spent the last [four years here](https://anup-deshmukh.github.io/talks/) studying everything from differential equations to minimax theorems. To foster my budding interest I have tried to explore wide areas of topics through online articles, blogs and always look for explorable explainations. 
 
 ([This](https://ncase.me/trust/) is definitely worth your time if you are interested in game theory)
 
+## Internships 
+
+My first internship at [Slicepay](https://slicepay.in/) gave me an opportunity to work as a Full stack developer. My work at Murdoch university in the summer of 2016 introduced me to the world of deep learning and ground breaking capability of Convolutional Neural Networks. Under the supervision of [Prof Ferdous Sohel](http://profiles.murdoch.edu.au/myprofile/ferdous-sohel/), I worked on the problem of crowd counting and learning of spatio-temporal features for crowd models. I have also enjoyed working with awesome researchers and engineers in industry, mainly an internship at [FAST lab](http://www.rennes.supelec.fr/ren/rd/fast/team.php) in the summer of 2017 ([details here](https://anup-deshmukh.github.io/publications/)).
+     
+## My Interests
+
 I enjoy working on artificial intelligence, particularly computer vision and deep learning; and my research interests include related fields such as human-computer interaction, Recommender Systems and to some extent synthesis techniques in deep learning. 
 
-My first internship at [Slicepay](https://slicepay.in/) gave me an opportunity to work as a Full stack developer. My work at Murdoch university in the summer of 2016 introduced me to the world of deep learning and ground breaking capability of Convolutional Neural Networks. Under the supervision of [Prof Ferdous Sohel](http://profiles.murdoch.edu.au/myprofile/ferdous-sohel/), I worked on the problem of crowd counting and learning of spatio-temporal features for crowd models. I have also enjoyed working with awesome researchers and engineers in industry, mainly an internship at [FAST lab](http://www.rennes.supelec.fr/ren/rd/fast/team.php) in the summer of 2017 [details here](https://anup-deshmukh.github.io/publications/).
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-
 I am very interested in studying the adversarial attacks on deep learning models. A deluge of recent papers have proposed methods for defenses. The problem is surprisingly complex and it is not difficult at all to create new adversarial images  to circumvent existing solutions. This study of making neural networks robust to these attacks interests me. 
-
 
 > Creativity is part of human nature. It can be only be untaught. ~ Ai Weiwei.
 
