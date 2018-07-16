@@ -10,9 +10,9 @@ redirect_from:
 
 > The real danger is not that computers will begin to think like men, but that men will begin to think like computers ~ Sydney H.
 
-Hello there! I'm Anup, observant, maverick and a believer of [optimistic nihilism](https://www.youtube.com/watch?v=MBRqu0YOH14)
+Hello there! I'm Anup, observant, maverick and a believer of [optimistic nihilism](https://www.youtube.com/watch?v=MBRqu0YOH14).
 
-Example: Bunch of proud geeks
+xxx: Bunch of proud geeks
 ![Bunch of proud geeks](/images/team.JPG)
 and one more behind the camera 
 
