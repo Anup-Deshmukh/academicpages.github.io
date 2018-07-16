@@ -1,7 +1,7 @@
 ---
 title: "Paper Title Number 2"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 redirect_from: 
   - /publications/

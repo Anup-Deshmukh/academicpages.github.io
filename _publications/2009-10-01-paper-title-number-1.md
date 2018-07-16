@@ -1,7 +1,7 @@
 ---
 title: "A Scalable Clustering algorithm for Serendipity in Recommender Systems "
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 redirect_from: 
   - /publications/
