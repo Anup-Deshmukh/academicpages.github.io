@@ -12,8 +12,9 @@ redirect_from:
 
 Hello there! I'm Anup, observant, maverick and a believer of [optimistic nihilism](https://www.youtube.com/watch?v=MBRqu0YOH14)
 
+Bunch of proud geeks,
 ![Bunch of proud geeks](/images/team.JPG)
-one more behind the camera 
+and one more behind the camera 
 
 I spent 18 years of my life in a small town called [Aurangabad](https://en.wikipedia.org/wiki/Aurangabad,_Maharashtra). Where ever I have been, this small town has always travelled with me and has always enriched me. I curerntly reside in Bangalore. I'm in my final year at [IIIT-B](https://www.iiitb.ac.in/) where I major in Computer Science [details here](https://anup-deshmukh.github.io/talks/). I have spent last four years here, studying everything from differential equations to minimax theorems. 
 
