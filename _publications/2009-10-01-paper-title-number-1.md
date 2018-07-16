@@ -1,14 +1,15 @@
 ---
-title: "A Scalable Clustering algorithm for Serendipity in Recommender Systems "
+title: "Paper Title Number 1"
 collection: publications
-permalink: /publication/
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-redirect_from: 
-  - /publications/
-  - /publications.html
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
+This paper is about the number 1. The number 2 is left for future work.
 
-Inspired by an idea of [Filter Bubble](https://en.wikipedia.org/wiki/Filter_bubble) coined by [Eli Pariser](https://en.wikipedia.org/wiki/Eli_Pariser) and further brainstorming motivated me to work on a Recommender Systems. The movie buff inside me gave captivating possible work directions for introducing surprises while producing movie recommendations. I worked on a design of an approach that efficiently tackles the problem of high sparsity and overspecialization in
-Collaborative filtering. Our goal was to effectuate serendipity in movie recommender systems with an end-to-end algorithm, Serendipitous Clustering for Collaborative Filtering (SC-CF) that considers diversity, unexpectedness and relevance.
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
