@@ -4,11 +4,9 @@ title: "International Institute of Information Technology-Bangalore"
 permalink: /iiitb/
 author_profile: true
 redirect_from: 
-  - /iiitb/
+  - /talks/
   - /talks.html
 ---
-
-
 
 <p align="justify">Motivated by my interest in the applied sciences and problem-solving, I took the Joint Entrance Examination. I was able to secure admission into the International Institute of Information Technology (IIIT) Bangalore,
 which has one of the finest Information Technology Department in this part of the world. </p>
