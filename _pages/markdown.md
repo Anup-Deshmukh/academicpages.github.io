@@ -6,6 +6,7 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 
 ## Locations of key files/directories
 
