@@ -10,7 +10,7 @@ redirect_from:
 
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 
-<p align="center">
+<p align="justify">
 Motivated by my interest in the applied sciences and problem-solving, I took the Joint Entrance Examination. 
 I was able to secure admission into the International Institute of Information Technology (IIIT) Bangalore,
 which has one of the finest Information Technology Department in this part of the world.
