@@ -10,7 +10,7 @@ redirect_from:
 
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 
-<p align="justify"; margin-right: 100px>
+<p align="justify">
 Motivated by my interest in the applied sciences and problem-solving, I took the Joint Entrance Examination. 
 I was able to secure admission into the International Institute of Information Technology (IIIT) Bangalore,
 which has one of the finest Information Technology Department in this part of the world.
@@ -20,9 +20,9 @@ I am currently in the fourth year of the Integrated Masters program at IIIT-B. T
 Below is the list of projects I worked on in my academic life at IIIT-B
 
 * **Description Generation from Images using Recurrent Neural Nets**
-  * The fun video which does the <q>neaural talk</q> in real time motivated me to work on description generation models. I worked on a LSTM model to generate captions. The inject architecture where the image features are directly incorporated into the LSTM during the sequence encoding process was used.
+  * <p align="justify">The fun video which does the <q>neaural talk</q> in real time motivated me to work on description generation models. I worked on a LSTM model to generate captions. The inject architecture where the image features are directly incorporated into the LSTM during the sequence encoding process was used.
   * [Here](http://Anup-Deshmukh.github.io/files/caption_gen.pdf.pdf) is the document explaining my implementation.
-  * <var>Code will be available soon</var> 
+  * <var>Code will be available soon</var> <p>
 
 * **Automated Essay Scoring with Cross Feature Vector Generation** 
   * Designed the model, Intelligent Text Rater (ITR) to automate the task of essay grading. Implemented ITR with the proposed novel approach of feature vector generation of text essays and significantly reduced the required training data size. 
