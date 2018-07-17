@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "Scaling up Simhash"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: ''
+date: 2018
+venue: 'CIKM'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+Recent advancement of the Internet has generated large volume of high dimensional data. In many industrial applications, the size of datasets has exceeded the memory capacity provided by existing systems. Thus, the algorithms that can reduce data dimensions while preserving semantics are very much in need. One approach for doing this includes conserving the similarity between data objects. Hence, it is useful to develop methods that can generate a small size sketch of the given data objects while maintaining an estimate of the desired similarity between their corresponding sketches.
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+We proposed a sketching algorithm - simsketch - that can be applied on top of simhash which further reduces the dimension of the data while maintaining an estimate of the cosine similarity between original real valued vectors.
+
+**Details will be available soon**
+

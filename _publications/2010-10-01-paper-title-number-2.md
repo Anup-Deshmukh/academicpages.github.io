@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "A Faster Sampling Algorithm for Spherical k-means"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: ''
+date: 2018
+venue: 'ACML'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+The Spherical k-means is an important problem in unsupervised learning. It is similar to the k-means clustering problem and uses cosine similarity as a similarity/distance measure instead of euclidean distance. Although the SPKM Dhillon and Modha (2001) algorithm is simple and efficient, it depends on the initial values of the k cluster centers. The task of locating k initial cluster centers is important in obtaining high quality clustering. 
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+In this work we experimentally validated the SPKM++ algorithm by considering the spherical clustering problem
+for large sparse document collections. We proved that, with our approach the computational complexity in SPKM++ can be decreased while retaining the clustering results. 
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+**Details will be available soon**
+
