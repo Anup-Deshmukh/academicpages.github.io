@@ -4,8 +4,8 @@ title: "International Institute of Information Technology-Bangalore"
 permalink: /iiitb/
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /iiitb/
+  - /talks.html
 ---
 
 
