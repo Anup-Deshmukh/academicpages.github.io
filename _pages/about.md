@@ -22,7 +22,7 @@ The first 18 years of my life were spent in a small town called [Aurangabad](htt
 
 ## Internships 
 
-My first internship at [Slicepay](https://slicepay.in/) gave me an opportunity to work as a Full stack developer. My work at Murdoch university in the summer of 2016 introduced me to the world of deep learning and ground breaking capability of Convolutional Neural Networks. Under the supervision of [Prof Ferdous Sohel](http://profiles.murdoch.edu.au/myprofile/ferdous-sohel/), I worked on the problem of crowd counting and learning of spatio-temporal features for crowd models. I have also enjoyed working with awesome researchers and engineers in industry, mainly an internship at [FAST lab](http://www.rennes.supelec.fr/ren/rd/fast/team.php) in the summer of 2017 ([details here](https://anup-deshmukh.github.io/publications/)).
+My first internship at [Slicepay](https://slicepay.in/) gave me an opportunity to work as a Full stack developer. My work at Murdoch university in the summer of 2016 introduced me to the world of deep learning and ground breaking capability of Convolutional Neural Networks. Under the supervision of [Prof Ferdous Sohel](http://profiles.murdoch.edu.au/myprofile/ferdous-sohel/), I worked on the problem of crowd counting and learning of spatio-temporal features for crowd models. I have also enjoyed working with awesome researchers and engineers in industry, mainly an internship at [FAST lab](http://www.rennes.supelec.fr/ren/rd/fast/team.php) in the summer of 2017 ([details will be added here](https://anup-deshmukh.github.io/publications/)).
      
 ## My Interests
 
