@@ -3,7 +3,7 @@ title: "A Scalable Clustering algorithm for Serendipity in Recommender Systems"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
-date: 2018
+date: 2018-05-07
 venue: 'RecSys'
 ---
 

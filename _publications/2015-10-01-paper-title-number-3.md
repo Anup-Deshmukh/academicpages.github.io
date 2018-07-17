@@ -3,7 +3,7 @@ title: "Scaling up Simhash"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: ''
-date: 2018
+date: 2018-05-22
 venue: 'CIKM'
 ---
 
