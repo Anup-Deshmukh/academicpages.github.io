@@ -12,7 +12,7 @@ redirect_from:
 
 Hello there! I'm Anup, observant, maverick and a believer of [optimistic nihilism](https://www.youtube.com/watch?v=MBRqu0YOH14).
 
-xxx: Bunch of proud geeks
+Bunch of proud geeks
 ![Bunch of proud geeks](/images/team.JPG)
 and one more behind the camera 
 
