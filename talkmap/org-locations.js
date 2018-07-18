@@ -38,7 +38,7 @@ var addressPoints = [
   [
   "Hyderabad, TE", 
    19.8762, 
-   -75.3433
+   75.3433
   ],
   [
   "Rennes, France", 
