@@ -86,6 +86,11 @@ var addressPoints = [
    -1.5536
   ],
   [
+  "Freemantle", 
+   -32.0569, 
+   115.7439
+  ],
+  [
   "Amsterdam, NL", 
    52.3702, 
    4.8952
