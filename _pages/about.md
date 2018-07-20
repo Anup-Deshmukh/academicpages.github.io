@@ -10,14 +10,14 @@ redirect_from:
 
 > The real danger is not that computers will begin to think like men, but that men will begin to think like computers ~ Sydney H.
 
-Hello there! I'm Anup, observant, maverick and a believer of [optimistic nihilism](https://www.youtube.com/watch?v=MBRqu0YOH14).
+Hello! I'm Anup, observant, maverick and a believer of [optimistic nihilism](https://www.youtube.com/watch?v=MBRqu0YOH14).
 
 Bunch of proud geeks,
 <!-- ![Bunch of proud geeks](/images/team.JPG | width=80) -->
 <p align="left"><img src="http://Anup-Deshmukh.github.io/images/team.JPG" style="width:80%"></p>
 and one more behind the camera. 
 
-The first 18 years of my life were spent in a small town called [Aurangabad](https://en.wikipedia.org/wiki/Aurangabad,_Maharashtra). Where ever I go, this town always travels with me and always enriches me. I currently reside in Bangalore where I'm majoring in computer science engineering at [IIIT-B](https://www.iiitb.ac.in/) (final year). Apart from watching innumerable movies, I have spent the last [four years here](https://anup-deshmukh.github.io/talks/) studying everything from differential equations to minimax theorems. To foster my budding interest I have tried to explore wide areas of topics through online articles, blogs and have always looked for explorable explainations. 
+<p align="justify">The first 18 years of my life were spent in a small town called [Aurangabad](https://en.wikipedia.org/wiki/Aurangabad,_Maharashtra). Where ever I go, this town always travels with me and always enriches me. I currently reside in Bangalore where I'm majoring in computer science engineering at [IIIT-B](https://www.iiitb.ac.in/) (final year). Apart from watching innumerable movies, I have spent the last [four years here](https://anup-deshmukh.github.io/talks/) studying everything from differential equations to minimax theorems. To foster my budding interest I have tried to explore wide areas of topics through online articles, blogs and have always looked for explorable explainations. </p>
 
 ([This](https://ncase.me/trust/) is definitely worth your time if you are interested in game theory)
 
@@ -27,7 +27,7 @@ My first internship at [Slicepay](https://slicepay.in/) gave me an opportunity t
      
 ## My Interests
 
-I enjoy working on artificial intelligence, particularly computer vision and deep learning; and my research interests include related fields such as human-computer interaction, Recommender Systems and to some extent synthesis techniques in deep learning. 
+I enjoy working on computer vision and deep learning methods; and my research interests include related fields such as human-computer interaction, Recommender Systems and generative models in deep learning. 
 
 I am very interested in studying the adversarial attacks on deep learning models. A deluge of recent papers have proposed methods for defenses. The problem is surprisingly complex and it is not difficult at all to create new adversarial images  to circumvent existing solutions. This study of making neural networks robust to these attacks interests me. 
 
