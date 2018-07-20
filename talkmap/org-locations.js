@@ -17,7 +17,7 @@ var addressPoints = [
   ],
   [
   "Pune, MH", 
-   19.8762, 
+   18.5204, 
    73.8567
   ],
   [
@@ -39,6 +39,31 @@ var addressPoints = [
   "Hyderabad, TE", 
    19.8762, 
    75.3433
+  ],
+  [
+  "Kanyakumari", 
+   8.0883, 
+   77.5385
+  ],
+  [
+  "Kolhapur", 
+   16.7050, 
+   74.2433
+  ],
+  [
+  "Mysore", 
+   12.2958, 
+   76.6394
+  ],
+  [
+  "Coorg", 
+   12.3375, 
+   75.8069
+  ],
+  [
+  "Mahabalipuram", 
+   12.6269, 
+   80.1927
   ],
   [
   "Rennes, France", 
