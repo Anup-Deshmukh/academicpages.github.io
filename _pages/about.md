@@ -45,5 +45,7 @@ In a nutshell, here is the inclusive but not an exhaustive list of works that ha
 1. [Investigating Serendipity in Recommender Systems Based on Real User Feedback](https://www-users.cs.umn.edu/~zhaox331/papers/denis2018sac.pdf)
 
 
+<div align="left"> <p># site visitors: <a href='https://www.counter12.com'><img src='https://www.counter12.com/img-bzw7x28Dc0AZb647-45.gif' border='0' alt='counter'></a><script type='text/javascript' src='https://www.counter12.com/ad.js?id=bzw7x28Dc0AZb647'></script> </p> </div>
+
 
 
