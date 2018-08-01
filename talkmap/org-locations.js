@@ -120,5 +120,20 @@ var addressPoints = [
   "Brussels, BE", 
    50.8503, 
    4.3517
+  ],
+  [
+  "Lyon, Fr", 
+   45.7640, 
+   4.8357
+  ],
+  [
+  "Geneva, Switzerland", 
+   46.2044, 
+   6.1432
+  ],
+  [
+  "Annecy, Fr", 
+   45.8992, 
+   6.1294
   ]
 ];
