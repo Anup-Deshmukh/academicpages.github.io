@@ -1,6 +1,6 @@
 ---
 title: "Perception of emotions from Audio Signals"
-collection: publications
+collection: ongoing
 permalink: /publication/fast
 date: 2018-10-05
 excerpt: ''
