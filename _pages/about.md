@@ -10,18 +10,7 @@ redirect_from:
 
 > The real danger is not that computers will begin to think like men, but that men will begin to think like computers ~ Sydney H.
 
-Hello! I'm Anup, observant, maverick and a believer of [optimistic nihilism](https://www.youtube.com/watch?v=MBRqu0YOH14).
-
-Bunch of proud geeks,
-<!-- ![Bunch of proud geeks](/images/team.JPG | width=80) -->
-<p align="left"><img src="http://Anup-Deshmukh.github.io/images/team.JPG" style="width:80%"></p>
-and one more behind the camera. 
-
-The first 18 years of my life were spent in a small town called [Aurangabad](https://en.wikipedia.org/wiki/Aurangabad,_Maharashtra). Where ever I go, this town always travels with me and always enriches me. I currently reside in Bangalore where I'm majoring in computer science engineering at [IIIT-B](https://www.iiitb.ac.in/) (final year). Apart from watching innumerable movies, I have spent the last [four years here](https://anup-deshmukh.github.io/talks/) studying everything from differential equations to minimax theorems. To foster my budding interest I have tried to explore wide areas of topics through online articles, blogs and have always looked for explorable explainations. 
-
-([This](https://ncase.me/trust/) is definitely worth your time if you are interested in game theory)
-
-## Internships 
+Hello! I'm Anup, observant, maverick and a believer of [optimistic nihilism](https://www.youtube.com/watch?v=MBRqu0YOH14). I currently reside in Bangalore where I'm majoring in computer science engineering at [IIIT-B](https://www.iiitb.ac.in/) (final year). 
 
 My first internship at [Slicepay](https://slicepay.in/) gave me an opportunity to work as a Full stack developer. My work at Murdoch university in the summer of 2017 introduced me to the world of deep learning and ground breaking capability of Convolutional Neural Networks. Under the supervision of [Prof Ferdous Sohel](http://profiles.murdoch.edu.au/myprofile/ferdous-sohel/), I worked on the problem of crowd counting and learning of spatio-temporal features for crowd models. I have also enjoyed working with awesome researchers and engineers in industry, mainly an internship at [FAST lab](http://www.rennes.supelec.fr/ren/rd/fast/team.php) in the summer of 2018 ([details will be added here](https://anup-deshmukh.github.io/publications/)).
      
