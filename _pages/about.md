@@ -18,8 +18,6 @@ My first internship at [Slicepay](https://slicepay.in/) gave me an opportunity t
 
 I am very interested in studying the adversarial attacks on deep learning models. A deluge of recent papers have proposed methods for defenses. The problem is surprisingly complex and it is not difficult at all to create new adversarial images to circumvent existing solutions. This study of making neural networks robust to these attacks interests me. 
 
-<q>Creativity is part of human nature. It can be only be untaught.&#8230;</q> &#8211;Ai Weiwei.
-
 I am curious about the methods for AI models to understand the creativity in their tasks and think that generative models like GAN’s have great potential. Here, being creative although is very subjective, roughly means to be original and not just try to be less of a copycat than before (term borrowed from my friend). The existing work revolving around the same have identified the problem well but more has to be done in a different direction rather than making the optimization sophisticated by putting more and more constraints. 
 
 In a nutshell, here is the inclusive but not an exhaustive list of works that has amused me recently:
