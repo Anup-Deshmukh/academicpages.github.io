@@ -14,7 +14,7 @@ My first internship at [Slicepay](https://slicepay.in/) gave me an opportunity t
      
 ## My Interests
 
->I enjoy working on computer vision and deep learning methods; and my research interests include related fields such as **human-computer interaction, Recommender Systems and generative models in deep learning**. 
+>I enjoy working on computer vision and deep learning methods; and my research interests include related fields such as human-computer interaction, Recommender Systems and generative models in deep learning. 
 
 I am very interested in studying the adversarial attacks on deep learning models. A deluge of recent papers have proposed methods for defenses. The problem is surprisingly complex and it is not difficult at all to create new adversarial images to circumvent existing solutions. This study of making neural networks robust to these attacks interests me. 
 
