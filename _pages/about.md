@@ -10,7 +10,7 @@ redirect_from:
 
 > Hello! I'm Anup, observant, maverick and a believer of [optimistic nihilism](https://www.youtube.com/watch?v=MBRqu0YOH14). I currently reside in Bangalore where I'm majoring in computer science engineering at [IIIT-B](https://www.iiitb.ac.in/) (final year). 
 
-My first internship at [Slicepay](https://slicepay.in/) gave me an opportunity to work as a Full stack developer. My work at Murdoch university in the summer of 2017 introduced me to the world of deep learning and ground breaking capability of Convolutional Neural Networks. Under the supervision of [Prof Ferdous Sohel](http://profiles.murdoch.edu.au/myprofile/ferdous-sohel/), I worked on the problem of crowd counting and learning of spatio-temporal features for crowd models. I have also enjoyed working with awesome researchers and engineers in industry, mainly an internship at [FAST lab](http://www.rennes.supelec.fr/ren/rd/fast/team.php) in the summer of 2018. ([details here](https://anup-deshmukh.github.io/publications/))
+My first internship at [Slicepay](https://slicepay.in/) gave me an opportunity to work as a Full stack developer. My work at Murdoch university in the summer of 2017 introduced me to the world of deep learning and ground breaking capability of Convolutional Neural Networks. Under the supervision of [Prof Ferdous Sohel](http://profiles.murdoch.edu.au/myprofile/ferdous-sohel/), I worked on the problem of crowd counting and learning of spatio-temporal features for crowd models. I have also enjoyed working at [FAST lab](http://www.rennes.supelec.fr/ren/rd/fast/team.php) in the summer of 2018. ([details here](https://anup-deshmukh.github.io/publications/))
      
 ## My Interests
 
