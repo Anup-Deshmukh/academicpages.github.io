@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-Download CV [here](http://Anup-Deshmukh.github.io/files/Anup_Deshmukh_2p.pdf) **Updated on May 2018!** 
+Download CV [here](http://Anup-Deshmukh.github.io/files/Anup_Deshmukh_1p.pdf) **Updated on May 2018!** 
 {: .notice}
