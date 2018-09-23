@@ -46,6 +46,9 @@
         {% elsif post.venue == 'ICDM-SAREC'  %}
           <p>Accepted in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>        
 
+        {% elsif post.venue == 'ACML'  %}
+          <p>Accepted in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>        
+
         {% elsif post.collection == 'publications' %}
           <p>Submitted in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         
