@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-> Hello! I'm Anup, I currently reside in Bangalore where I'm majoring in computer science engineering at [IIIT-B](https://www.iiitb.ac.in/) (final year). I am part of the Multimodal Perception lab, mentored by [Prof. Dinesh Babu](https://www.iiitb.ac.in/faculty_page.php?name=dineshbabujayagopi). Previously, I have enjoyed working at [FAST lab](http://www.rennes.supelec.fr/ren/rd/fast/team.php) in the summer of 2018 ([details here](https://anup-deshmukh.github.io/publication/fast)).
+> Hello! I'm Anup, I currently reside in Bangalore where I'm majoring in computer science engineering at [IIIT-B](https://www.iiitb.ac.in/) (final year). I am part of the Multimodal Perception lab, mentored by [Prof. Dinesh Babu](https://www.iiitb.ac.in/faculty_page.php?name=dineshbabujayagopi). Previously, I have enjoyed working at [FAST lab](http://www.rennes.supelec.fr/ren/rd/fast/team.php) at CentraleSupelec, France in the summer of 2018 ([details here](https://anup-deshmukh.github.io/publication/fast)).
 
 
 >I enjoy working on computer vision and deep learning methods; and my research interests include related fields such as human-computer interaction, Recommender Systems and generative models in deep learning. 
