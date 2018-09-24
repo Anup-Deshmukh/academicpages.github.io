@@ -8,18 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-< Hello! I'm Anup, observant, maverick and a believer of [optimistic nihilism](https://www.youtube.com/watch?v=MBRqu0YOH14). I currently reside in %%Bangalore where I'm majoring in computer science engineering at [IIIT-B](https://www.iiitb.ac.in/) (final year). >
+> Hello! I'm Anup, I currently reside in Bangalore where I'm majoring in computer science engineering at [IIIT-B](https://www.iiitb.ac.in/) (final year). I am part of the Multimodal Perception lab, mentored by Prof. Dinesh Babu. 
 
-
-My first internship at [Slicepay](https://slicepay.in/) gave me an opportunity to work as a Full stack developer. My work at Murdoch university in the summer of 2017 introduced me to the world of deep learning and ground breaking capability of Convolutional Neural Networks. Under the supervision of [Prof Ferdous Sohel](http://profiles.murdoch.edu.au/myprofile/ferdous-sohel/), I worked on the problem of crowd counting and learning of spatio-temporal features for crowd models. I have also enjoyed working at [FAST lab](http://www.rennes.supelec.fr/ren/rd/fast/team.php) in the summer of 2018. ([details here](https://anup-deshmukh.github.io/publications/))
-     
-## My Interests
 
 >I enjoy working on computer vision and deep learning methods; and my research interests include related fields such as human-computer interaction, Recommender Systems and generative models in deep learning. 
 
-I am very interested in studying the adversarial attacks on deep learning models. A deluge of recent papers have proposed methods for defenses. The problem is surprisingly complex and it is not difficult at all to create new adversarial images to circumvent existing solutions. This study of making neural networks robust to these attacks interests me. 
+I extended my independent work to a wide range of areas, both theoretical and experimental. The areas of work include: Spherical K-Means, similarity preserving hashing algorithms, Deep Learning for Computer Vision and Recommender Systems.
 
-I am curious about the methods for AI models to understand the creativity in their tasks and think that generative models like GAN’s have great potential. Here, being creative although is very subjective, roughly means to be original and not just try to be less of a copycat than before (term borrowed from my friend). The existing work revolving around the same have identified the problem well but more has to be done in a different direction rather than making the optimization sophisticated by putting more and more constraints. 
+I have also enjoyed working at [FAST lab](http://www.rennes.supelec.fr/ren/rd/fast/team.php) in the summer of 2018. ([details here](https://anup-deshmukh.github.io/publications/))
+     
+I am curious about the methods for AI models to understand the creativity in their tasks and think that generative models like GAN’s have great potential. Here, being creative although is very subjective, roughly means to be original and not just try to be less of a copycat than before (term borrowed from my friend). I am also interested in studying the adversarial attacks on deep learning models. 
 
 In a nutshell, here is the inclusive but not an exhaustive list of works that has amused me recently:
 ------
