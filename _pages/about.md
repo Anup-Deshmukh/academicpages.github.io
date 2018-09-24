@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-> Hello! I'm Anup, I currently reside in Bangalore where I'm majoring in computer science engineering at [IIIT-B](https://www.iiitb.ac.in/) (final year). I am part of the Multimodal Perception lab, mentored by [Prof. Dinesh Babu](https://www.iiitb.ac.in/faculty_page.php?name=dineshbabujayagopi). Previously, I have enjoyed working at [FAST lab](http://www.rennes.supelec.fr/ren/rd/fast/team.php) in the summer of 2018. ([details here](https://anup-deshmukh.github.io/publication/fast))
+> Hello! I'm Anup, I currently reside in Bangalore where I'm majoring in computer science engineering at [IIIT-B](https://www.iiitb.ac.in/) (final year). I am part of the Multimodal Perception lab, mentored by [Prof. Dinesh Babu](https://www.iiitb.ac.in/faculty_page.php?name=dineshbabujayagopi). Previously, I have enjoyed working at [FAST lab](http://www.rennes.supelec.fr/ren/rd/fast/team.php) in the summer of 2018 ([details here](https://anup-deshmukh.github.io/publication/fast)).
 
 
 >I enjoy working on computer vision and deep learning methods; and my research interests include related fields such as human-computer interaction, Recommender Systems and generative models in deep learning. 
 
+Our recent work _"A Faster Sampling Algorithm for Spherical k-means"_ is accepted as a full conference paper in ACML 2018.
     
 I am curious about the methods for AI models to understand the creativity in their tasks and think that generative models like GAN’s have great potential. Here, being creative although is very subjective, roughly means to be original and not just try to be less of a copycat than before (term borrowed from my friend). I am also interested in studying the adversarial attacks on deep learning models. 
 
