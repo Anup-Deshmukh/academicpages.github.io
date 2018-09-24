@@ -13,7 +13,7 @@ redirect_from:
 
 >I enjoy working on computer vision and deep learning methods; and my research interests include related fields such as Human-computer interaction and  Recommender Systems. 
 
-My recent work [_"A Scalable Clustering Algorithm for Serendipity in Recommender Systems"_](https://anup-deshmukh.github.io/publication/2009-10-01-paper-title-number-1) is accepted in the Recommender Systmes track of [ICDM 2018](http://icdm2018.org/). I am currently working on formalizing the minimax game in GAN's to give unexpected yet relevant recommendations. The current work aims at exploiting the use of Imitation learning in giving rewards to Generator for it's each discrete step.
+My recent work [_"A Scalable Clustering Algorithm for Serendipity in Recommender Systems"_](https://anup-deshmukh.github.io/publication/2009-10-01-paper-title-number-1)  is accepted in the Recommender Systmes track of [ICDM 2018](http://icdm2018.org/). I am currently working on formalizing the minimax game in GAN's to give unexpected yet relevant recommendations. The current work aims at exploiting the use of Imitation learning in giving rewards to Generator for it's each discrete step.
     
 I am curious about the methods for AI models to understand the creativity in their tasks and think that generative models like GAN’s have great potential. Here, being creative although is very subjective, roughly means to be original and not just try to be less of a copycat than before (term borrowed from my friend). I am also interested in studying the adversarial attacks on deep learning models. 
 
