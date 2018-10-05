@@ -6,19 +6,25 @@ author_profile: true
 redirect_from:
   - /wordpress/blog-posts/
 ---
-<!--
-{% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.posts %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single.html %}
-{% endfor %}-->
+<head>
+<style>
+img.opacity {
+	opacity: 0.5;
+	filter: alpha(opacity=50);
+	}	
+	
+img.opacity:hover {
+	opacity: 1;
+	filter: alpha(opacity=100);
+	}
 
+</style>
+</head>
 <body>
 <p style="text-decoration:underline;" align="left">Link to my <a href="https://medium.com/@danup1997"> Medium </a> profile.</p>
+
+<p style="text-decoration:underline;" align="left">Link to our <a href="https://medium.com/@danup1997"> AI reading group on Medium </a></p>
+
+<img src="http://Anup-Deshmukh.github.io/files/books/mem.jpg" width="150" height="250" alt="" class="opacity" />
 
 </body>
