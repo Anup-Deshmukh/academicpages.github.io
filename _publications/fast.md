@@ -1,5 +1,5 @@
 ---
-title: "Perception of emotions from Audio Signals"
+title: "Emo-CNN for Perceiving Stress from Audio Signals: A Brain Chemistry Approach"
 collection: ongoing
 permalink: /publication/fast
 date: 2018-10-05
