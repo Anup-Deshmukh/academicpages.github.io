@@ -8,8 +8,7 @@ venue: ''
 
 ---
 
-The emotion plays a key role in many applications like in healthcare domain to gather emotional behaviors. It is very crucial to determine “how it was said” other than “what it was said”,
-Therefore, in human- machine interaction applications, it is important that emotional states in human speech are fully perceived by ML model well.
+The emotion plays a key role in many applications like in healthcare domain to gather emotional behaviors. It is very crucial to determine “how it was said” other than “what it was said”, Therefore, in human- machine interaction applications, it is important that emotional states in human speech are fully perceived by ML model well.
 
 Our ultimate goal here at FAST lab is to model the stress from emotions. The amount of annotated data is limited and these annotations are highly subjective. Given this common issue in affective computation, the subjectivity lies in the fact that stress perceived by one person may be completely different from the other. Since we are not classifying the data into stress or not stress labels, we must find a way to map these emotions to stress. In short, identify where stress lies in the emotion space. 
 
