@@ -1,7 +1,7 @@
 ---
 title: "A Faster Sampling Algorithm for Spherical k-means"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2018-10-01-paper-title-number-3
 excerpt: ''
 date: 2018-05-10
 venue: 'ACML'

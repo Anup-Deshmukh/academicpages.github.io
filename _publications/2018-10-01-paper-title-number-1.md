@@ -1,7 +1,7 @@
 ---
 title: "A Minimax Game for User Satisfaction in Recommender Systems"
 collection: ongoing
-permalink: /publication/fast
+permalink: /publication/2018-10-01-paper-title-number-1
 date: 2018-10-05
 excerpt: ''
 venue: ''
