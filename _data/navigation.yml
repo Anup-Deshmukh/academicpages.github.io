@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "My Research"
-    url: /publications/
-
-  - title: "Life @ IIIT-B"
-    url: /iiitb/      
+    url: /publications/     
         
-  - title: "CV"
-    url: /cv/
+  - title: "Projects"
+    url: /portfolio/
+
+  - title: "Talks"
+    url: /iiitb/ 
     
   - title: "Blog Posts"
     url: /year-archive/
@@ -15,5 +15,5 @@ main:
   - title: "What I love doing!"
     url: /markdown/
 
-  - title: "Contact"
+  - title: "CV & Contact"
     url: /contact/
