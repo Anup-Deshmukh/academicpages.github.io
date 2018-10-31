@@ -11,5 +11,7 @@ The Spherical k-means is an important problem in unsupervised learning. It is si
 In this work we experimentally validated the SPKM++ algorithm by considering the spherical clustering problem
 for large sparse document collections. We proved that, with our approach the computational complexity in SPKM++ can be decreased while retaining the clustering results. 
 
-**Link to the camera ready paper will be available soon**
+
+Link to the paper: [SPKM](https://www.researchgate.net/publication/328637717_A_Faster_Sampling_Algorithm_for_Spherical_k-means)
+
 
