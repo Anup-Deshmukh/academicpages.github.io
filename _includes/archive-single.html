@@ -49,7 +49,7 @@
         {% elsif post.venue == 'ACML'  %}
           <p>Accepted and to appear in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>        
 
-        {% elsif post.venue == 'AAAI'  %}
+        {% elsif post.venue == 'top AI conference'  %}
           <p>Submitted in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>        
 
         {% elsif post.date %}
