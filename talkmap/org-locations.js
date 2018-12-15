@@ -135,5 +135,15 @@ var addressPoints = [
   "Annecy, Fr", 
    45.8992, 
    6.1294
+  ],
+  [
+  "Beijing, China", 
+   39.9042, 
+   116.4074
+  ],
+  [
+  "Singapore", 
+   1.3521, 
+   103.8198
   ]
 ];
