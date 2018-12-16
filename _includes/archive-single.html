@@ -44,10 +44,10 @@
         {% elsif post.venue == '' %}
           <p>Ongoing project</p>
         {% elsif post.venue == 'ICDM-SAREC'  %}
-          <p>Accepted and to appear in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>        
+          <p>Accepted and appeared in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>        
 
         {% elsif post.venue == 'ACML'  %}
-          <p>Accepted and to appear in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>        
+          <p>Accepted and appeared in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>        
 
         {% elsif post.venue == 'top AI conference'  %}
           <p>Submitted in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>        
