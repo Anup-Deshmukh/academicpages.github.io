@@ -12,7 +12,7 @@ In this work we experimentally validated the SPKM++ algorithm by considering the
 for large sparse document collections. We proved that, with our approach the computational complexity in SPKM++ can be decreased while retaining the clustering results. 
 
 
-Link to the paper: [SPKM](https://www.researchgate.net/publication/328637717_A_Faster_Sampling_Algorithm_for_Spherical_k-means)
-Link to the conference website: [ACML 2018](http://www.acml-conf.org/2018/)
+Link to the paper: [SPKM](https://www.researchgate.net/publication/328637717_A_Faster_Sampling_Algorithm_for_Spherical_k-means), Proceedings of Machine Learning Research (PMLR) - Asian Conference on Machine Learnig (ACML) 2018. 
 
+Link to the conference website: [ACML 2018](http://www.acml-conf.org/2018/)
 
