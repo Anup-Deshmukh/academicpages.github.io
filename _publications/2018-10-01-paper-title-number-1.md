@@ -8,4 +8,4 @@ venue: ''
 
 ---
 
-I am working on this topic as a part of my thesis at IIIT-B. This idea is very dear to me and I am excited to share this work and results with all of you soon! 
+I am working on this topic as a part of my Masters thesis at IIIT-B. This idea is very dear to me and I am excited to share this work and results with all of you soon! 

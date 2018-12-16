@@ -13,5 +13,6 @@ for large sparse document collections. We proved that, with our approach the com
 
 
 Link to the paper: [SPKM](https://www.researchgate.net/publication/328637717_A_Faster_Sampling_Algorithm_for_Spherical_k-means)
+Link to the conference website: [ACML 2018](http://www.acml-conf.org/2018/)
 
 
