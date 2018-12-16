@@ -6,11 +6,11 @@ excerpt: ''
 date: 2018-05-10
 venue: 'ACML'
 ---
-The Spherical k-means is an important problem in unsupervised learning. It is similar to the k-means clustering problem and uses cosine similarity as a similarity/distance measure instead of euclidean distance. Although the SPKM Dhillon and Modha (2001) algorithm is simple and efficient, it depends on the initial values of the k cluster centers. The task of locating k initial cluster centers is important in obtaining high quality clustering. 
+The Spherical k-means (SPKM) is an important problem in unsupervised learning. It is similar to the k-means clustering problem and uses cosine similarity as a similarity/distance measure instead of euclidean distance. Although the SPKM algorithm is simple and efficient, it depends on the initial values of the k cluster centers. The task of locating k initial cluster centers is important in obtaining high quality clustering. 
 
-In this work we experimentally validated the SPKM++ algorithm by considering the spherical clustering problem
-for large sparse document collections. We proved that, with our approach the computational complexity in SPKM++ can be decreased while retaining the clustering results. 
+The Spherical k-means algorithm proposed by [Dhillon and Modha, 2001](https://doi.org/10.1023/A:1007612920971) is a popular algorithm for clustering high dimensional datasets. Although their algorithm is simple and easy to implement, a drawback of the same is that it doesn’t provide any provable guarantee on the clustering result. [Endo and Miyamoto, 2015](https://doi.org/10.1007/978-3-319-23240-9_9) suggest an adaptive sampling based algorithm (Spherical k-means++) which gives near optimal results, with high probability. However, their algorithm requires k sequential passes over the entire dataset, which may not be feasible when the dataset and/or the values of k are large. 
 
+In this work, we propose a Markov chain based sampling algorithm that takes only one pass over the data, and gives close to optimal clustering similar to Spherical k-means++, i.e., a faster algorithm while maintaining almost the same approximation. We present a theoretical analysis of the algorithm, and complement it with rigorous experiments on real-world datasets. We proved that, with our approach the computational complexity in SPKM++ can be decreased while retaining the clustering results. Our proposed algorithm is simple and easy to implement, and can be easily adopted in practice.
 
 Link to the paper: [SPKM](https://www.researchgate.net/publication/328637717_A_Faster_Sampling_Algorithm_for_Spherical_k-means), Proceedings of Machine Learning Research (PMLR) - [Asian Conference on Machine Learnig (ACML) 2018](http://www.acml-conf.org/2018/).
 
