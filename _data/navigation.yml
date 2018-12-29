@@ -12,8 +12,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
-  - title: "My Other Interests"
-    url: /markdown/
+  - title: "Misc"
+    url: /anup-iiitb/
 
   - title: "CV & Contact"
     url: /cv/
