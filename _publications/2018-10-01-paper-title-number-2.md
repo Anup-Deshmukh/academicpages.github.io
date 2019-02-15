@@ -5,6 +5,7 @@ permalink: /publication/2018-10-01-paper-title-number-2
 excerpt: ''
 date: 2018-05-07
 venue: 'ICDM-SAREC'
+citation: A. A. Deshmukh, P. Nair and S. Rao, "A Scalable Clustering Algorithm for Serendipity in Recommender Systems," 2018 IEEE International Conference on Data Mining Workshops (ICDMW), Singapore, Singapore, 2018, pp. 1279-1288. 
 ---
 
 Inspired by an idea of [Filter Bubble](https://en.wikipedia.org/wiki/Filter_bubble) coined by [Eli Pariser](https://en.wikipedia.org/wiki/Eli_Pariser) and further brainstorming motivated me to work on a Recommender Systems. The movie buff inside me gave captivating possible work directions for introducing surprises while producing movie recommendations. 
