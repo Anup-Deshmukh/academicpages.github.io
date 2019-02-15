@@ -14,3 +14,8 @@ In this work, we propose a Markov chain based sampling algorithm that takes only
 
 Link to the paper: [SPKM](http://proceedings.mlr.press/v95/pratap18a.html), Proceedings of Machine Learning Research (PMLR) - [Asian Conference on Machine Learnig (ACML) 2018](http://www.acml-conf.org/2018/).
 
+APA citation: Pratap, R., Deshmukh, A., Nair, P., & Dutt, T. (2018, November). A Faster Sampling Algorithm for Spherical $k$-means. In Asian Conference on Machine Learning (pp. 343-358).
+MLA citation: Pratap, Rameshwar, et al. "A Faster Sampling Algorithm for Spherical $ k $-means." Asian Conference on Machine Learning. 2018.
+
+
+

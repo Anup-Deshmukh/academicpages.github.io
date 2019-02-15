@@ -13,5 +13,7 @@ High sparsity and the problem of overspecialization are challenges faced by coll
 
 Contrary to the common belief that users are only interested in items similar to those of their previous liking, it has been well established that including serendipitous recommendations improves their satisfaction. Thus, to tackle the second problem of overspecialization, we effectuate serendipity in movie recommender systems with an end-to-end algorithm, Serendipitous Clustering for Collaborative Filtering (SC-CF) that considers diversity, unexpectedness and relevance. SC-CF takes advantage of carefully generated user profiles to then assign users to a “serendipitous cluster”. The overall clustering process leverages these user profiles and improves recommendation quality through serendipity. A series of experiments on Serendipity 2018 (part of Movielens) dataset built on real user feedback has shown that SC-CF outperforms the existing popular recommendation methods like K-Means and deep learning based CF.
 
-Link to the paper: [SC-CF](https://ieeexplore.ieee.org/document/8637463), Workshop Proceedings of IEEE, [International Conference on Data Mining (ICDM) 2018](http://icdm2018.org/). 
+Link to the paper: [SC-CF](https://ieeexplore.ieee.org/document/8637463), Workshop Proceedings of IEEE, [International Conference on Data Mining (ICDM) 2018](http://icdm2018.org/).
+APA Citation: A. A. Deshmukh, P. Nair and S. Rao, "A Scalable Clustering Algorithm for Serendipity in Recommender Systems," 2018 IEEE International Conference on Data Mining Workshops (ICDMW), Singapore, Singapore, 2018, pp. 1279-1288. 
+
 
