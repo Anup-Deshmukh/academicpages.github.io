@@ -5,6 +5,8 @@ permalink: /publication/2018-10-01-paper-title-number-3
 excerpt: ''
 date: 2018-05-10
 venue: 'ACML'
+citation: Pratap, R., Deshmukh, A., Nair, P., & Dutt, T. (2018, November). A Faster Sampling Algorithm for Spherical $k$-means. In Asian Conference on Machine Learning (pp. 343-358). [cite](https://scholar.google.co.in/scholar?hl=en&as_sdt=0%2C5&q=A+Faster+Sampling+Algorithm+for+Spherical+k-means&btnG=#d=gs_cit&u=%2Fscholar%3Fq%3Dinfo%3AQqmp6N8RI4EJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Den)
+
 ---
 The Spherical k-means (SPKM) is an important problem in unsupervised learning. It is similar to the k-means clustering problem and uses cosine similarity as a similarity/distance measure instead of euclidean distance. Although the SPKM algorithm is simple and efficient, it depends on the initial values of the k cluster centers. The task of locating k initial cluster centers is important in obtaining high quality clustering. 
 
@@ -13,10 +15,5 @@ The Spherical k-means algorithm proposed by [Dhillon and Modha, 2001](https://do
 In this work, we propose a Markov chain based sampling algorithm that takes only one pass over the data, and gives close to optimal clustering similar to Spherical k-means++, i.e., a faster algorithm while maintaining almost the same approximation. We present a theoretical analysis of the algorithm, and complement it with rigorous experiments on real-world datasets. We proved that, with our approach the computational complexity in SPKM++ can be decreased while retaining the clustering results. Our proposed algorithm is simple and easy to implement, and can be easily adopted in practice.
 
 Link to the paper: [SPKM](http://proceedings.mlr.press/v95/pratap18a.html), Proceedings of Machine Learning Research (PMLR) - [Asian Conference on Machine Learnig (ACML) 2018](http://www.acml-conf.org/2018/).
-
-APA citation: Pratap, R., Deshmukh, A., Nair, P., & Dutt, T. (2018, November). A Faster Sampling Algorithm for Spherical $k$-means. In Asian Conference on Machine Learning (pp. 343-358).
-
-MLA citation: Pratap, Rameshwar, et al. "A Faster Sampling Algorithm for Spherical $ k $-means." Asian Conference on Machine Learning. 2018.
-
 
 
