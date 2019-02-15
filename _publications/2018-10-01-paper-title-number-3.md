@@ -6,6 +6,7 @@ excerpt: ''
 date: 2018-05-10
 venue: 'ACML'
 citation: Pratap, R., Deshmukh, A., Nair, P., & Dutt, T. (2018, November). A Faster Sampling Algorithm for Spherical $k$-means. In Asian Conference on Machine Learning (pp. 343-358).
+paperurl: http://proceedings.mlr.press/v95/pratap18a.html
 
 ---
 The Spherical k-means (SPKM) is an important problem in unsupervised learning. It is similar to the k-means clustering problem and uses cosine similarity as a similarity/distance measure instead of euclidean distance. Although the SPKM algorithm is simple and efficient, it depends on the initial values of the k cluster centers. The task of locating k initial cluster centers is important in obtaining high quality clustering. 
