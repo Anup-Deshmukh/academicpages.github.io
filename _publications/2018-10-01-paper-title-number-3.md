@@ -12,5 +12,5 @@ The Spherical k-means algorithm proposed by [Dhillon and Modha, 2001](https://do
 
 In this work, we propose a Markov chain based sampling algorithm that takes only one pass over the data, and gives close to optimal clustering similar to Spherical k-means++, i.e., a faster algorithm while maintaining almost the same approximation. We present a theoretical analysis of the algorithm, and complement it with rigorous experiments on real-world datasets. We proved that, with our approach the computational complexity in SPKM++ can be decreased while retaining the clustering results. Our proposed algorithm is simple and easy to implement, and can be easily adopted in practice.
 
-Link to the paper: [SPKM](https://www.researchgate.net/publication/328637717_A_Faster_Sampling_Algorithm_for_Spherical_k-means), Proceedings of Machine Learning Research (PMLR) - [Asian Conference on Machine Learnig (ACML) 2018](http://www.acml-conf.org/2018/).
+Link to the paper: [SPKM](http://proceedings.mlr.press/v95/pratap18a.html), Proceedings of Machine Learning Research (PMLR) - [Asian Conference on Machine Learnig (ACML) 2018](http://www.acml-conf.org/2018/).
 
