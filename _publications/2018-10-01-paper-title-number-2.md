@@ -16,4 +16,6 @@ Contrary to the common belief that users are only interested in items similar to
 
 Link to the paper: [SC-CF](https://ieeexplore.ieee.org/document/8637463), Workshop Proceedings of IEEE, [International Conference on Data Mining (ICDM) 2018](http://icdm2018.org/).
 
+Paper presentation: [Slides](http://Anup-Deshmukh.github.io/files/ICDM_slides.pdf)
+
 

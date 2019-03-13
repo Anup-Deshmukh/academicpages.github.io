@@ -16,4 +16,6 @@ In this work, we propose a Markov chain based sampling algorithm that takes only
 
 Link to the paper: [SPKM](http://proceedings.mlr.press/v95/pratap18a.html), Proceedings of Machine Learning Research (PMLR) - [Asian Conference on Machine Learnig (ACML) 2018](http://www.acml-conf.org/2018/).
 
+Paper presentation: [Slides](http://Anup-Deshmukh.github.io/files/ACML_slides.pdf)
+
 
