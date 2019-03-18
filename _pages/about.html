@@ -9,10 +9,133 @@ redirect_from:
 ---
 
 <head>
-<link rel="stylesheet" href="move.css">
-<link rel="stylesheet" href="b.css">
+<style>
+#main1 {
+    background-color: white;
+    width: 100%;
+    padding: 7px;
+    box-shadow: 3px 7px #F1E5BE;
+    border-style: double;
+    border-radius: 15px
+}
 
-<script src="move.js"></script>
+
+#list2 { width: 100%; }
+#list2 ol { 
+font-style:italic; font-family:Georgia, Times, serif; font-size:24px; color: #C7BB8F;  }
+#list2 ol li { }
+#list2 ol li p { padding:8px; font-style:normal; font-family:Arial; font-size:16px; color:#eee; border-left: 1px solid #999; }
+#list2 ol li p em { display:block; }
+
+.move {
+  font-family: 'Raleway', sans-serif;
+  
+  font-size: 20px;
+  background-color: white;
+  color: #C7BB8F
+  font-weight: 200;
+  font-style: italic;
+
+}
+
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+.title {
+	font-family: "Montserrat";
+	text-align: left;
+	color: #FFF;
+	align-items: left;
+	justify-content: left;
+	font-size: 20px
+	letter-spacing: 1px;
+}
+
+h1 {
+	background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif);
+	background-size: cover;
+	color: transparent;
+	-moz-background-clip: text;
+	-webkit-background-clip: text;
+	text-transform: uppercase;
+	font-size: 20px;
+	line-height: .75;
+	margin: 10px 0;
+           padding: 10px;
+}
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-134133434-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-134133434-1');
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+<script type="text/javascript">
+var TxtRotate = function(el, toRotate, period) {
+  this.toRotate = toRotate;
+  this.el = el;
+  this.loopNum = 0;
+  this.period = 2000;
+  this.txt = '';
+  this.tick();
+  this.isDeleting = false;
+};
+
+TxtRotate.prototype.tick = function() {
+  var i = this.loopNum % this.toRotate.length;
+  var fullTxt = this.toRotate[i];
+
+  if (this.isDeleting) {
+    this.txt = fullTxt.substring(0, this.txt.length - 1);
+  } else {
+    this.txt = fullTxt.substring(0, this.txt.length + 1);
+  }
+
+  this.el.innerHTML = '<span class="wrap">'+this.txt+'</span>';
+
+  var that = this;
+  var delta = 100 - Math.random() * 100;
+
+  if (this.isDeleting) { delta /= 2; }
+
+  if (!this.isDeleting && this.txt === fullTxt) {
+    delta = this.period;
+    this.isDeleting = true;
+  } else if (this.isDeleting && this.txt === '') {
+    this.isDeleting = false;
+    this.loopNum++;
+    delta = 100;
+  }
+
+  setTimeout(function() {
+    that.tick();
+  }, delta);
+};
+
+window.onload = function() {
+  var elements = document.getElementsByClassName('txt-rotate');
+  for (var i=0; i<elements.length; i++) {
+    var toRotate = elements[i].getAttribute('data-rotate');
+    var period = elements[i].getAttribute('data-period');
+    if (toRotate) {
+      new TxtRotate(elements[i], JSON.parse(toRotate), period);
+    }
+  }
+ 
+  var css = document.createElement("style");
+  css.type = "text/css";
+  css.innerHTML = ".txt-rotate > .wrap { border-right: 0.08em solid #666 }";
+  document.body.appendChild(css);
+};
+
+</script>
 </head>
 
 
