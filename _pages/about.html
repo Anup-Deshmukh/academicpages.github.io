@@ -9,107 +9,10 @@ redirect_from:
 ---
 
 <head>
-<style>
+<link rel="stylesheet" href="move.css">
+<link rel="stylesheet" href="b.css">
 
-#main1 {
-    background-color: white;
-    width: 100%;
-    padding: 7px;
-    box-shadow: 3px 7px #F1E5BE;
-    border-style: double;
-    border-radius: 15px
-}
-
-
-#list2 { width: 100%; }
-#list2 ol { font-style:italic; font-family:Georgia, Times, serif; font-size:24px; color: #C7BB8F;  }
-#list2 ol li { }
-#list2 ol li p { padding:8px; font-style:normal; font-family:Arial; font-size:16px; color:#eee; border-left: 1px solid #999; }
-#list2 ol li p em { display:block; }
-
-.move {
-  font-family: 'Raleway', sans-serif;
-  
-  font-size: 20px;
-  background-color: white;
-  color: #C7BB8F
-  font-weight: 200;
-  font-style: italic;
-
-}
-
-
-</style>
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-134133434-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-134133434-1');
-</script>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-
-<script type="text/javascript">
-var TxtRotate = function(el, toRotate, period) {
-  this.toRotate = toRotate;
-  this.el = el;
-  this.loopNum = 0;
-  this.period = 2000;
-  this.txt = '';
-  this.tick();
-  this.isDeleting = false;
-};
-
-TxtRotate.prototype.tick = function() {
-  var i = this.loopNum % this.toRotate.length;
-  var fullTxt = this.toRotate[i];
-
-  if (this.isDeleting) {
-    this.txt = fullTxt.substring(0, this.txt.length - 1);
-  } else {
-    this.txt = fullTxt.substring(0, this.txt.length + 1);
-  }
-
-  this.el.innerHTML = '<span class="wrap">'+this.txt+'</span>';
-
-  var that = this;
-  var delta = 100 - Math.random() * 100;
-
-  if (this.isDeleting) { delta /= 2; }
-
-  if (!this.isDeleting && this.txt === fullTxt) {
-    delta = this.period;
-    this.isDeleting = true;
-  } else if (this.isDeleting && this.txt === '') {
-    this.isDeleting = false;
-    this.loopNum++;
-    delta = 100;
-  }
-
-  setTimeout(function() {
-    that.tick();
-  }, delta);
-};
-
-window.onload = function() {
-  var elements = document.getElementsByClassName('txt-rotate');
-  for (var i=0; i<elements.length; i++) {
-    var toRotate = elements[i].getAttribute('data-rotate');
-    var period = elements[i].getAttribute('data-period');
-    if (toRotate) {
-      new TxtRotate(elements[i], JSON.parse(toRotate), period);
-    }
-  }
- 
-  var css = document.createElement("style");
-  css.type = "text/css";
-  css.innerHTML = ".txt-rotate > .wrap { border-right: 0.08em solid #666 }";
-  document.body.appendChild(css);
-};
-</script>
+<script src="move.js"></script>
 </head>
 
 
@@ -125,17 +28,20 @@ window.onload = function() {
 
 <br />
 
-<p align="justify">My recent work <a href="https://anup-deshmukh.github.io/publication/2018-10-01-paper-title-number-2">"A Scalable Clustering Algorithm for Serendipity in Recommender Systems"</a> is accepted in the Recommender Systmes track of <a href="http://icdm2018.org/">ICDM 2018</a>. Broadly, my current work involves exploiting neural networks to learn user-item interaction function. This interesting endeavour has led me to research on Generative Adversarial Networks (GANs) to give unexpected yet relevant recommendations. Exploring such techniques to build novel and practically useful learning algorithms excites me.</p>
+<p align="justify">My recent work <a href="https://anup-deshmukh.github.io/publication/2018-10-01-paper-title-number-2">"A Scalable Clustering Algorithm for Serendipity in Recommender Systems"</a> is accepted in the Recommender Systmes track of <a href="http://icdm2018.org/">ICDM 2018</a>. Broadly, my current work involves exploiting neural networks to learn user-item interaction function. This endeavour has led me to research on Generative Adversarial Networks (GANs) to give unexpected yet relevant recommendations. Exploring such techniques to build novel and practically useful learning algorithms has always excited me.</p>
    
 
 <p class="move">
-<span class="txt-rotate" data-period="2000" data-rotate='["My recent work on Affective Computing is accepted in ICSERAC 2019.", "I gave my first TEDx pre-event talk titled \"Filter Bubble\" at IIIT-B."]'></span>
+<div class="title">
+ <h1>News</h1>
+</div>
+
+<span class="txt-rotate" data-period="2000" data-rotate='["I gave my first TEDx pre-event talk titled \"Filter Bubble\" at IIIT-B."]'></span>
 </p>
 
-<p align="justify">I am always working on interesting projects and ideas which I brainstorm with my friends. These discussions have enhanced my
-enthusiasm to apply the Deep Learning knowledge to Computer Vision problems like crowd counting, image captioning and text to image synthesis.</p> 
+<p align="justify"> My journey as an undergrad student has given me opportunities to work on many challenging problems in Computer Vision, which constitutes my another area of interest. I am always working on interesting projects and ideas which I brainstorm with my friends. These discussions have enhanced my enthusiasm to apply the Deep Learning knowledge to Computer Vision problems like crowd counting, image captioning and text to image synthesis.</p> 
 
-<p align="justify">I am curious about the methods for AI models to understand the <i>creativity</i> in their tasks and think that a lot has to done in taking full advantage of Neural Networks for the same. This interest of mine demands reading online articles, papers which consumes most of my free time and has also motivated me to explore the field of Reinforcement Learning. In a nutshell, here is the inclusive but not an exhaustive list of works that has amused me recently: </p>
+<p align="justify"> I am curious about the methods for AI models to understand the <i>creativity</i> in their tasks and think that a lot has to done in taking full advantage of Neural Networks for the same. This interest of mine demands reading online articles, papers which consumes most of my free time and has also motivated me to explore the field of Reinforcement Learning. In a nutshell, here is the inclusive but not an exhaustive list of works that has amused me recently: </p>
 
 
 <div id="list2">
