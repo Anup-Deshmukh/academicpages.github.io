@@ -40,27 +40,7 @@ font-style:italic; font-family:Georgia, Times, serif; font-size:22px; color: #C7
 
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 
-
-.title {
-	font-family: "Montserrat";
-	text-align: center;
-	align-items: left;
-	justify-content: center;
-	                	
-}
-
-h1 {
-	background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif);
-	background-size: cover;
-	color: transparent;
-	-moz-background-clip: text;
-	-webkit-background-clip: text;
-	text-transform: uppercase;
-	line-height: .75;
-           padding: 5px;
-           text-align: center;
-           font-size: 16px
-}
+svg{font-weight:bold;max-width:20px;height:auto;}
 
 </style>
 
@@ -154,9 +134,29 @@ window.onload = function() {
 <p align="justify"> My journey as an undergrad student has given me opportunities to work on many challenging problems in Computer Vision, which constitutes my another area of interest. I am always working on interesting projects and ideas which I brainstorm with my friends. These discussions have enhanced my enthusiasm to apply the Deep Learning knowledge to Computer Vision problems like crowd counting, image captioning and text to image synthesis.</p> 
 
 <p align="justify">
-<div class="title" style="float:left;margin-right:5px;padding-top:5px;">
- <h1>News</h1>
-</div>
+<svg viewbox="0 0 100 20">
+  <defs>
+    <linearGradient id="gradient" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="5%" stop-color="#326384"/>
+      <stop offset="95%" stop-color="#123752"/>
+    </linearGradient>
+    <pattern id="wave" x="0" y="0" width="120" height="20" patternUnits="userSpaceOnUse">
+      <path id="wavePath" d="M-40 9 Q-30 7 -20 9 T0 9 T20 9 T40 9 T60 9 T80 9 T100 9 T120 9 V20 H-40z" mask="url(#mask)" fill="url(#gradient)"> 
+        <animateTransform
+            attributeName="transform"
+            begin="0s"
+            dur="1.5s"
+            type="translate"
+            from="0,0"
+            to="40,0"
+            repeatCount="indefinite" />
+      </path>
+    </pattern>
+  </defs>
+  <text text-anchor="middle" x="50" y="15" font-size="17" fill="url(#wave)"  fill-opacity="0.6">NEWS</text>
+  <text text-anchor="middle" x="50" y="15" font-size="17" fill="url(#gradient)" fill-opacity="0.1">NEWS</text>
+</svg>
+
 
 <div class="move">
 <span class="txt-rotate" data-period="2000" data-rotate='["I gave my first TEDx pre-event talk titled \"Filter Bubble\" at IIIT-B.", "My work on Affective Computing is accepted in ICSERAC 2019."]'></span>
