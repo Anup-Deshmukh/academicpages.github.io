@@ -5,7 +5,7 @@ permalink: /publication/2018-10-01-paper-title-number-2
 excerpt: ''
 date: 2018-05-07
 venue: 'ICDM-SAREC'
-citation: *A. A. Deshmukh, P. Nair and S. Rao, "A Scalable Clustering Algorithm for Serendipity in Recommender Systems," 2018 IEEE International Conference on Data Mining Workshops (ICDMW), Singapore, Singapore, 2018, pp. 1279-1288.*
+citation: A. A. Deshmukh, P. Nair and S. Rao, "A Scalable Clustering Algorithm for Serendipity in Recommender Systems," 2018 IEEE International Conference on Data Mining Workshops (ICDMW), Singapore, Singapore, 2018, pp. 1279-1288.
 ---
 
 **Abstract:** High sparsity and the problem of overspecialization are challenges faced by collaborative filtering (CF) algorithms in recommender systems. In this paper, we design an approach that efficiently tackles the above problems. We address the first issue of high sparsity in CF by modifying the popular parallel seeding technique proposed by Bahmani et al. for use in a spherical setting, for the clustering of users. Experimental evaluations on highly sparse real world datasets demonstrate the better performance of our algorithm than existing Spherical K- Means algorithms. 
