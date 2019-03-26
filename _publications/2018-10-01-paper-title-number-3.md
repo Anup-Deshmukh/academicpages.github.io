@@ -5,7 +5,7 @@ permalink: /publication/2018-10-01-paper-title-number-3
 excerpt: ''
 date: 2018-05-10
 venue: 'ACML'
-citation: Pratap, R., Deshmukh, A., Nair, P., & Dutt, T. (2018, November). A Faster Sampling Algorithm for Spherical $k$-means. In Asian Conference on Machine Learning (pp. 343-358).
+*citation: Pratap, R., Deshmukh, A., Nair, P., & Dutt, T. (2018, November). A Faster Sampling Algorithm for Spherical $k$-means. In Asian Conference on Machine Learning (pp. 343-358).*
 
 ---
 
@@ -13,8 +13,8 @@ citation: Pratap, R., Deshmukh, A., Nair, P., & Dutt, T. (2018, November). A Fas
 
 In this work, we propose a Markov chain based sampling algorithm that takes only one pass over the data, and gives close to optimal clustering similar to Spherical k-means++, i.e., a faster algorithm while maintaining almost the same approximation. We present a theoretical analysis of the algorithm, and complement it with rigorous experiments on real-world datasets. We proved that, with our approach the computational complexity in SPKM++ can be decreased while retaining the clustering results. Our proposed algorithm is simple and easy to implement, and can be easily adopted in practice.
 
-Link to the paper: [SPKM](http://proceedings.mlr.press/v95/pratap18a.html), Proceedings of Machine Learning Research (PMLR) - [Asian Conference on Machine Learnig (ACML) 2018](http://www.acml-conf.org/2018/).
+**Link to the paper:** [SPKM](http://proceedings.mlr.press/v95/pratap18a.html), Proceedings of Machine Learning Research (PMLR) - [Asian Conference on Machine Learnig (ACML) 2018](http://www.acml-conf.org/2018/).
 
-Paper presentation: [Slides](http://Anup-Deshmukh.github.io/files/ACML_slides.pdf)
+**Paper presentation:** [Slides](http://Anup-Deshmukh.github.io/files/ACML_slides.pdf)
 
 
