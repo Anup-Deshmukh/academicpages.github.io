@@ -5,7 +5,7 @@ permalink: /publication/2018-10-01-paper-title-number-3
 excerpt: ''
 date: 2018-05-10
 venue: 'ACML'
-citation: *Pratap, R., Deshmukh, A., Nair, P., & Dutt, T. (2018, November). A Faster Sampling Algorithm for Spherical $k$-means. In Asian Conference on Machine Learning (pp. 343-358).*
+citation: Pratap, R., Deshmukh, A., Nair, P., & Dutt, T. (2018, November). A Faster Sampling Algorithm for Spherical $k$-means. In Asian Conference on Machine Learning (pp. 343-358).
 
 ---
 
