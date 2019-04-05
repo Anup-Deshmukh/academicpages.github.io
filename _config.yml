@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hello"
+title                    : "<big>Home Page</big>"
 title_separator          : "-"
 name                     : &name "Anup Deshmukh"
 description              : &description "Student at IIIT-B"
