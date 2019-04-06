@@ -1,7 +1,7 @@
 ---
 title: "Scaling up Simhash"
 collection: publications
-permalink: /publication/2018-10-01-paper-title-number-4
+permalink: /anup-publication/Scaling-up-Simhash
 excerpt: ''
 date: 2019-01-27
 venue: 'top AI conference'

@@ -1,7 +1,7 @@
 ---
 title: "A Scalable Clustering algorithm for Serendipity in Recommender Systems"
 collection: publications
-permalink: /publication/2018-10-01-paper-title-number-2
+permalink: /anup-publication/A-Scalable-Clustering-algorithm-for-Serendipity-in-Recommender-Systems
 excerpt: ''
 date: 2018-05-07
 venue: 'ICDM-SAREC'
