@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/     
+    url: /anup-publications/     
         
   - title: "Projects"
-    url: /anup-projects/
+    url: /anup-iiitb-projects/
 
   - title: "Talks"
-    url: /iiitb-talks/ 
+    url: /anup-iiitb-talks/ 
     
   - title: "Reading"
-    url: /anup-reading/
+    url: /anup-iiitb-reading/
 
   - title: "Misc"
     url: /anup-iiitb/
