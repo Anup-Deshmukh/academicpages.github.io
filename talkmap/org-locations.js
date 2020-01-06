@@ -165,5 +165,10 @@ var addressPoints = [
   "San Francisco", 
    37.7749, 
    122.4194
+  ],
+  [
+  "Santa Cruz", 
+   36.9741, 
+   122.0308
   ]
 ];
