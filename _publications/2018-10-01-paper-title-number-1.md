@@ -1,5 +1,5 @@
 ---
-title: "Scaling up Simhash"
+title: "IR-BERT Leveraging BERT for Semantic Search in Background Linking for News Articles"
 collection: publications
 permalink: /anup-publication/Scaling-up-Simhash
 excerpt: ''
