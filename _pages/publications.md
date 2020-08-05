@@ -3,6 +3,7 @@ layout: archive
 title: ""
 permalink: /anup-publications/
 author_profile: true
+googlescholar: true
 ---
 
 {% if author.googlescholar %}
