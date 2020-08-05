@@ -5,7 +5,7 @@ permalink: /anup-publication/IR-BERT
 excerpt: ''
 date: 2018-05-07
 venue: 'ICDM-SAREC'
-citation: Anand Deshmukh, Anup, and Udhav Sethi. "IR-BERT: Leveraging BERT for Semantic Search in Background Linking for News Articles." arXiv e-prints (2020): arXiv-2007.
+citation: A. A. Deshmukh, P. Nair and S. Rao, "A Scalable Clustering Algorithm for Serendipity in Recommender Systems," 2018 IEEE International Conference on Data Mining Workshops (ICDMW), Singapore, Singapore, 2018, pp. 1279-1288.
 ---
 
 

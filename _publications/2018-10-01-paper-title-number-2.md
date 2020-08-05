@@ -1,5 +1,5 @@
 ---
-title: "A Scalable Clustering algorithm for Serendipity in Recommender Systems"
+title: "A hi Scalable Clustering algorithm for Serendipity in Recommender Systems"
 collection: publications
 permalink: /anup-publication/A-Scalable-Clustering-algorithm-for-Serendipity-in-Recommender-Systems
 excerpt: ''
