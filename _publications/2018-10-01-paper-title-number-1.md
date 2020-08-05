@@ -1,10 +1,11 @@
 ---
-title: "IR-BERT Leveraging BERT for Semantic Search in Background Linking for News Articles"
+title: "IR-BERT: Leveraging BERT for Semantic Search in Background Linking for News Articles"
 collection: publications
-permalink: /anup-publication/Scaling-up-Simhash
+permalink: /anup-publication/IR-BERT
 excerpt: ''
 date: 2020-07-5
-venue: 'top AI conference'
+venue: 'ArXiv'
+citation: Deshmukh, Anup Anand, and Udhav Sethi. "IR-BERT: Leveraging BERT for Semantic Search in Background Linking for News Articles." arXiv preprint arXiv:2007.12603 (2020)
 ---
 
 <!-- ---
@@ -14,7 +15,7 @@ permalink: /anup-publication/IR-BERT:-Leveraging-BERT-for-Semantic-Search-in-Bac
 excerpt: ''
 date: 2020-07-01
 venue: 'ArXiv'
-citation: Deshmukh, Anup Anand, and Udhav Sethi. "IR-BERT: Leveraging BERT for Semantic Search in Background Linking for News Articles." arXiv preprint arXiv:2007.12603 (2020)
+citation: 
 ---
  -->
 
