@@ -3,7 +3,7 @@ title: "IR-BERT: Leveraging BERT for Semantic Search in Background Linking for N
 collection: publications
 permalink: /anup-publication/IR-BERT
 excerpt: ''
-date: 2018-05-07
+date: 2020-07-01
 venue: 'ArXiv'
 ---
 
