@@ -11,5 +11,5 @@ citation: Pratap, R., Deshmukh, A., Nair, P., & Dutt, T. (2018, November). A Fas
 
 **Link to the paper:** [SPKM](http://proceedings.mlr.press/v95/pratap18a.html), Proceedings of Machine Learning Research (PMLR) - [Asian Conference on Machine Learnig (ACML) 2018](http://www.acml-conf.org/2018/).
 
-**Paper presentation:** [Slides](http://Anup-Deshmukh.github.io/files/ACML_slides.pdf) [Poster](http://Anup-Deshmukh.github.io/files/ACML_poster.pdf)
+**Paper presentation:** [Slides](http://Anup-Deshmukh.github.io/files/ACML_slides.pdf) and [Poster](http://Anup-Deshmukh.github.io/files/ACML_poster.pdf)
 
